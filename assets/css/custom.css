@@ -1,11 +1,12 @@
 .install-form {
-  width: 535px
+  width: 550px;
+  padding: 0 10px;
 }
 
 .install-form form input {
   width: 340px;
   margin-top: 14px;
-  margin-right: 15px;
+  margin-right: 10px;
   height: 40px;
 }
 
