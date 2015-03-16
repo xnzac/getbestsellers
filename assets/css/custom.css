@@ -1,0 +1,15 @@
+.install-form {
+  width: 535px
+}
+
+.install-form form input {
+  width: 340px;
+  margin-top: 14px;
+  margin-right: 15px;
+  height: 40px;
+}
+
+.install-form form button {
+  width: 180px;
+  padding: 10px;
+}

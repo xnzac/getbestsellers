@@ -155,7 +155,6 @@ h4 {
 
 .install-form {
 	margin-top: 0;
-	margin-left: 30%;
 }
 
 .install-form input {
@@ -220,10 +219,6 @@ h4 {
 	padding-bottom: 50px;
 }
 
-#cta input {
-	margin-right: 30px;
-}
-
 #cta h2 {
 	text-align: center;
 }
@@ -234,10 +229,6 @@ h4 {
 	padding-top: 50px;
 	padding-bottom: 50px;
 	background: #f7f8fa;
-}
-
-#g input {
-	margin-right: 30px;
 }
 
 
