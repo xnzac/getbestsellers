@@ -13,3 +13,13 @@
   width: 180px;
   padding: 10px;
 }
+
+#h h3 {
+  color: white;
+  font-style: italic;
+}
+
+#h span {
+  background-color: black;
+  opacity: 0.75;
+}

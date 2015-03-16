@@ -169,11 +169,12 @@ h4 {
 
 /* HEADER SECTION */
 #h {
-	background: url(../img/background_social.jpg) no-repeat center top;
+	background: url(../img/background_social.jpg) no-repeat;
 	padding-top: 40px;
 	text-align:center;
 	background-attachment: relative;
-	background-position: center center;
+	/*background-position: center center;*/
+	background-position: center 5%;
 	height: 450px;
 	width: 100%;
 
