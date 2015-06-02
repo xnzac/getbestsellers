@@ -1,2 +1,2 @@
-Landing Page for SocialPromoter
+Landing Page for BestSellers
 
